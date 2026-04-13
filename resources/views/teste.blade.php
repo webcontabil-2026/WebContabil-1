@@ -27,9 +27,9 @@
             <li class="nav-item">
               <a href="#" class="nav-link active" aria-current="page">Home</a>
             </li>
-            <li class="nav-item"><a href="#" class="nav-link">Features</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">funcão</a></li>
             <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">teste</a></li>
             <li class="nav-item"><a href="#" class="nav-link">About</a></li>
           </ul>
         </header>
