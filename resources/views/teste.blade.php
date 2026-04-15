@@ -31,7 +31,7 @@
               <a href="#" class="nav-link active" aria-current="page">casa sla</a>
             </li>
             <li class="nav-item"><a href="#" class="nav-link">funcão</a></li>
-            <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">documentos</a></li>
             <li class="nav-item"><a href="#" class="nav-link">teste</a></li>
             <li class="nav-item"><a href="#" class="nav-link">About</a></li>
           </ul>
