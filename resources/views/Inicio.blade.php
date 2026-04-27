@@ -8,8 +8,13 @@
     <link rel="stylesheet" href="{{ asset('css/sla.css') }}">
 </head>
 <body>
+<<<<<<< HEAD
 <div>
     <h1>Bem-vindo ao WC teste</h1>
     <p>Este é um exemplo de página inicial usando Laravel Blade.</p>
+=======
+    <div>
+<h1>teste do erick aaaaaaaaaaaaaaaaa</h1>
+>>>>>>> c33865474e3e7b433768d2da32522fe355fe63a3
 </div>
 </body> 
